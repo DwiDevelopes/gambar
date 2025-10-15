@@ -1,2 +1,2 @@
 # gambar
-gambar
+<img src = "hacker.jpg">
