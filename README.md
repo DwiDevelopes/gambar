@@ -1,7 +1,7 @@
 # gambar
 <img src ="mapchart.png">
 <img src ="mapchart2.png">
-<img src ="mapchart3.png">
+<img src ="mapchar3.png">
 <img src ="mapchart4.png">
 <img src = "Desain tanpa judul (8).jpg">
 <img src = "Screenshot 2025-10-17 100808.png">
