@@ -1,4 +1,8 @@
 # gambar
+<img src ="mapchart">
+<img src ="mapchart2">
+<img src ="mapchart3">
+<img src ="mapchart4">
 <img src = "Desain tanpa judul (8).jpg">
 <img src = "Hcaker.jpg">
 <img src = "Screenshot 2025-10-17 100808.png">
