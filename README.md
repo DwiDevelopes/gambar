@@ -1,4 +1,5 @@
 # gambar
+<img src = "Screenshot 2025-10-30 200557.png">
 <img src ="mapchart.png">
 <img src ="mapchart2.png">
 <img src ="mapchar3.png">
