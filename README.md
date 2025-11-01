@@ -1,4 +1,10 @@
 # gambar
+<img src = "kesehatan/k1.png">
+<img src = "kesehatan/k2.png">
+<img src = "kesehatan/k3.png">
+<img src = "kesehatan/k4.png">
+<img src = "kesehatan/k5.png">
+<img src = "kesehatan/k6.png">
 <img src = "Screenshot 2025-10-30 200557.png">
 <img src ="mapchart.png">
 <img src ="mapchart2.png">
