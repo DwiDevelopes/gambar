@@ -1,4 +1,6 @@
 # gambar
+<img src = "Screenshot 2025-11-08 134931.png">
+<img src = "Screenshot 2025-11-08 134847.png">
 <img src = "Desain tanpa judul (10).jpg">
 <img src = "Screenshot 2025-11-05 092327.png">
 <img src = "Screenshot 2025-11-04 225922.png">
