@@ -4,6 +4,8 @@
 <img src = "tas/3.png">
 <img src = "tas/4.png">
 <img src = "tas/5.png">
+<img src = "tas/6.png">
+<img src = "tas/7.png">
 <img src = "Screenshot 2025-11-09 001502.png">
 <img src = "launcher.jpg">
 <img src = "Screenshot 2025-11-08 134931.png">
