@@ -1,4 +1,9 @@
 # gambar
+<img src = "tas/1.png">
+<img src = "tas/2.png">
+<img src = "tas/3.png">
+<img src = "tas/4.png">
+<img src = "tas/5.png">
 <img src = "Screenshot 2025-11-09 001502.png">
 <img src = "launcher.jpg">
 <img src = "Screenshot 2025-11-08 134931.png">
